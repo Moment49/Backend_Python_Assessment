@@ -13,7 +13,7 @@ main.py : This is the main program file that should be excuted.
 ### Command to Excute and test the main.py file
 ```
 Navigate to the directory 'Backend_Python_Assessment'
-Run the following command to excute the file as a module
+Run the following command to execute the file as a module
 Linux environment: python3 -m assessment_1.main
 Windows environment: python -m assessment_1.main 
 
@@ -34,7 +34,7 @@ main.py : This is the main program file that should be excuted.
 ### Command to Excute and test the main.py file
 ```
 Navigate to the directory 'Backend_Python_Assessment'
-Run the following command to excute the file as a module
+Run the following command to execute the file as a module
 Linux environment: python3 -m assessment_2.main
 Windows environment: python -m assessment_2.main 
 
