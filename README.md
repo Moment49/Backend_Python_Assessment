@@ -1,7 +1,7 @@
 # Below are the steps to Excute the Even number list program
 
 ### Operating system used: Ubuntu Linux distribution
-### First the program is split into modules this is to enable userability and modularity within the package
+### First the program is split into modules this is to enable usability and modularity within the package
 #### Entry Point for the Even number list is found in assessment_1 which is a python package
 #### Components of Assessment_1 Package
 ```
@@ -22,7 +22,7 @@ Windows environment: python -m assessment_1.main
 
 # Below are the steps to Excute the salary Increase Program
 ### Operating system used: Ubuntu Linux distribution
-### First the program is split into modules this is to enable userability and modularity within the package
+### First the program is split into modules this is to enable usability and modularity within the package
 #### Entry Point for the Even number list is found in assessment_2 which is a python package
 #### Components of Assessment_2 Package
 ```
